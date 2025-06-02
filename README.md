@@ -18,3 +18,5 @@ This demo helps you use both VADER (rule-based sentiment analysis tool) and BERT
 This demo helps you use both VADER (rule-based sentiment analysis tool) and BERT (transformer based sentiment analysis tools) on finance news, and then calculate their correlation with stock price. 
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/Digital-Finance/blob/main/audio%20mining.ipynb)
+This demo helps you mine audio clips, such as earnings call. 
