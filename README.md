@@ -14,3 +14,7 @@ This demo helps you understand market prediction and based on which how to const
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/Digital-Finance/blob/main/sentiment%20analysis.ipynb)
 This demo helps you use both VADER (rule-based sentiment analysis tool) and BERT (transformer based sentiment analysis tools) on Finance tweets. 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yiding2022/Digital-Finance/blob/main/Sentiments_and_Correlation_with_Stock_Price.ipynb)
+This demo helps you use both VADER (rule-based sentiment analysis tool) and BERT (transformer based sentiment analysis tools) on finance news, and then calculate their correlation with stock price. 
+
+
